@@ -13,4 +13,4 @@ To install the npm packages run the following command from inside the main folde
 and the following command to run the nodejs hosting the frontend:
 `npm start`
 
-This command will open the frontend at the url http://localhost:3000
+This command will open the frontend GUI at the url http://localhost:3000
